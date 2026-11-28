@@ -1,27 +1,27 @@
 {
   "awaitingVerification": {
-    "total": 674,
-    "internships": 363,
+    "total": 675,
+    "internships": 364,
     "fulltime": 310
   },
-  "generatedAt": "2026-11-28T16:20:00.917Z",
-  "totalJobs": 6162,
-  "internships": 3575,
+  "generatedAt": "2026-11-28T17:19:54.122Z",
+  "totalJobs": 6159,
+  "internships": 3572,
   "fulltime": 2587,
-  "screenedOut": 6325,
-  "closedPostingsCaught": 163,
+  "screenedOut": 6327,
+  "closedPostingsCaught": 164,
   "screening": {
     "version": 1,
     "unit": "application_destinations",
-    "reviewed": 19847,
-    "accepted": 6189,
-    "excluded": 6325,
-    "pendingVerification": 7333,
+    "reviewed": 19848,
+    "accepted": 6186,
+    "excluded": 6327,
+    "pendingVerification": 7335,
     "uncountedRecords": 0,
     "reasons": {
-      "closed": 163,
+      "closed": 164,
       "expired": 52,
-      "location": 1645,
+      "location": 1646,
       "role": 4457,
       "employer": 8
     }

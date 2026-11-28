@@ -14520,15 +14520,15 @@
     "accessDenied": true
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0152304": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0152742": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0152635": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:stryker.wd1.myworkdayjobs.com:strykercareers:r572941": {
@@ -16633,48 +16633,13 @@
     "accessDenied": true
   },
   "workday:nvent.wd5.myworkdayjobs.com:nvent:r23572": {
-    "checkedAt": "2026-11-28T05:19:23.162Z",
-    "status": "live",
-    "candidate": {
-      "company": "Nvent",
-      "title": "Mechanical Engineering and Design Co-op (January - August 2027)",
-      "term": "Not stated",
-      "location": "Anoka, MN, US, United States of America",
-      "workMode": "unknown",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "postedAtSource": "date_only",
-      "applyUrl": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--January---August-2027-_R23572",
-      "category": "Internship",
-      "salary": null,
-      "source": "Employer recovery",
-      "rawText": "Mechanical Engineering and Design Co-op (January - August 2027) Anoka, MN, US, United States of America Mechanical",
-      "sourceActive": true,
-      "roleTags": [
-        "mechanical"
-      ]
-    }
+    "checkedAt": "2026-11-28T17:19:31.433Z",
+    "status": "unknown",
+    "accessDenied": true
   },
   "workday:nvent.wd5.myworkdayjobs.com:nvent:r23573": {
-    "checkedAt": "2026-11-28T05:19:23.162Z",
-    "status": "live",
-    "candidate": {
-      "company": "Nvent",
-      "title": "Mechanical Engineering and Design Co-op (June - December 2027)",
-      "term": "Not stated",
-      "location": "Anoka, MN, US, United States of America",
-      "workMode": "unknown",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "postedAtSource": "date_only",
-      "applyUrl": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
-      "category": "Internship",
-      "salary": null,
-      "source": "Employer recovery",
-      "rawText": "Mechanical Engineering and Design Co-op (June - December 2027) Anoka, MN, US, United States of America Mechanical",
-      "sourceActive": true,
-      "roleTags": [
-        "mechanical"
-      ]
-    }
+    "checkedAt": "2026-11-28T17:19:31.433Z",
+    "status": "unknown"
   },
   "workday:entegris.wd1.myworkdayjobs.com:entegriscareers:req-14491": {
     "checkedAt": "2026-11-27T01:20:16.735Z",
@@ -19913,7 +19878,7 @@
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0152469": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:nelnet.wd1.myworkdayjobs.com:mynelnet:r23202": {
@@ -19940,7 +19905,7 @@
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0150844": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -21206,12 +21171,12 @@
     "accessDenied": true
   },
   "workday:ing.wd3.myworkdayjobs.com:icsgblcor:req-10119620": {
-    "checkedAt": "2026-11-27T05:20:00.661Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown",
     "accessDenied": true
   },
   "workday:ing.wd3.myworkdayjobs.com:icsgblcor:req-10119621": {
-    "checkedAt": "2026-11-27T05:20:00.661Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:insperity.wd12.myworkdayjobs.com:nsp:jr103439": {
@@ -21220,7 +21185,7 @@
     "accessDenied": true
   },
   "workday:ing.wd3.myworkdayjobs.com:jvsgblcor:req-10120426": {
-    "checkedAt": "2026-11-27T05:20:00.661Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:intel.wd1.myworkdayjobs.com:external:jr0287588": {
@@ -22356,7 +22321,7 @@
     "status": "unknown"
   },
   "workday:tsc.wd12.myworkdayjobs.com:tsc-careers:jr2781": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -22491,7 +22456,7 @@
     "accessDenied": true
   },
   "workday:wustl.wd1.myworkdayjobs.com:external:jr98032": {
-    "checkedAt": "2026-11-27T16:20:39.334Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -23649,7 +23614,7 @@
     }
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0153235": {
-    "checkedAt": "2026-11-26T14:20:06.860Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0153137": {
@@ -23661,7 +23626,7 @@
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0153988": {
-    "checkedAt": "2026-11-26T14:20:06.860Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "unknown"
   },
   "workday:mckesson.wd3.myworkdayjobs.com:external_careers:jr0155382": {
@@ -29333,7 +29298,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000160921300": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29355,7 +29320,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000160696244": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29387,7 +29352,7 @@
     "accessDenied": false
   },
   "smartrecruiters:nbcuniversal3:744000160928415": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29409,7 +29374,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000160697599": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29431,7 +29396,7 @@
     }
   },
   "smartrecruiters:boschgroup:744000152918940": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "Bosch Group",
@@ -29458,7 +29423,7 @@
     "accessDenied": false
   },
   "smartrecruiters:nbcuniversal3:744000161876175": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29480,7 +29445,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000161179529": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29502,7 +29467,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000161879639": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29524,7 +29489,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000162312217": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29546,7 +29511,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000161161787": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29568,7 +29533,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000161879532": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29590,7 +29555,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000162407819": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29613,7 +29578,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000162315360": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29635,7 +29600,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000163583264": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29657,7 +29622,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000163602429": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
@@ -29681,7 +29646,7 @@
     }
   },
   "smartrecruiters:nbcuniversal3:744000163603019": {
-    "checkedAt": "2026-11-28T04:20:12.165Z",
+    "checkedAt": "2026-11-28T17:19:31.433Z",
     "status": "live",
     "candidate": {
       "company": "NBCUniversal",
