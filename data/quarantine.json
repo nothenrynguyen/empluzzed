@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:20:31.273Z",
+  "generatedAt": "2026-11-28T16:20:00.917Z",
   "rejectedCount": 1897,
   "jobs": [
     {
@@ -4646,7 +4646,7 @@
     {
       "company": "Databricks",
       "title": "Software Engineering Intern (2027)",
-      "reason": "The employer's original posting date is 1211 days old, beyond the 180-day internship limit.",
+      "reason": "The employer's original posting date is 1212 days old, beyond the 180-day internship limit.",
       "source": "Internship Engine",
       "applyUrl": "https://databricks.com/company/careers/open-positions/job"
     },
@@ -28985,7 +28985,7 @@
     {
       "company": "RE/SPEC Inc.",
       "title": "Student Engineering Intern - Data Sci...",
-      "reason": "The employer's original posting date is 297 days old, beyond the 180-day internship limit.",
+      "reason": "The employer's original posting date is 298 days old, beyond the 180-day internship limit.",
       "source": "Aprameya Summer Internships 2027",
       "applyUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000107100902"
     },
@@ -60121,7 +60121,7 @@
     {
       "company": "RESPEC",
       "title": "Student Engineering Intern - Data Science",
-      "reason": "The employer's original posting date is 297 days old, beyond the 180-day internship limit.",
+      "reason": "The employer's original posting date is 298 days old, beyond the 180-day internship limit.",
       "source": "Open-Tech-Internships-2027 2027",
       "applyUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000107100902-student-engineering-intern-data-science?oga=true"
     },
@@ -84607,7 +84607,7 @@
     {
       "company": "Human Computer Lab",
       "title": "Intern - Electrical Engineer",
-      "reason": "The employer's original posting date is 214 days old, beyond the 180-day internship limit.",
+      "reason": "The employer's original posting date is 215 days old, beyond the 180-day internship limit.",
       "source": "Direct ATS (Ashby)",
       "applyUrl": "https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application"
     },
@@ -97671,13 +97671,6 @@
       "title": "Seasonal Chef Instructor (Sur La Table)",
       "reason": "The role does not confidently match a supported empluzzed category.",
       "source": "Direct ATS (Lever)",
-      "applyUrl": "https://jobs.lever.co/cscgeneration-2/2d2a17a6-2c29-4543-9842-b16e42113dcd/apply"
-    },
-    {
-      "company": "CSC Generation",
-      "title": "Seasonal Chef Instructor (Sur La Table)",
-      "reason": "The role does not confidently match a supported empluzzed category.",
-      "source": "Direct ATS (Lever)",
       "applyUrl": "https://jobs.lever.co/cscgeneration-2/44955da3-4d59-4295-b5fb-aeb950b7bcc0/apply"
     },
     {
@@ -97805,6 +97798,13 @@
       "reason": "The role does not confidently match a supported empluzzed category.",
       "source": "Direct ATS (Lever)",
       "applyUrl": "https://jobs.lever.co/cscgeneration-2/3737afcd-bf8d-432b-81f6-e97e97b72992/apply"
+    },
+    {
+      "company": "CSC Generation",
+      "title": "Seasonal Kitchen Assistant (Sur La Table)",
+      "reason": "The role does not confidently match a supported empluzzed category.",
+      "source": "Direct ATS (Lever)",
+      "applyUrl": "https://jobs.lever.co/cscgeneration-2/3951069a-87f1-4dbe-bdd0-6f9117d96232/apply"
     },
     {
       "company": "CSC Generation",
@@ -97994,13 +97994,6 @@
       "reason": "The role does not confidently match a supported empluzzed category.",
       "source": "Direct ATS (Lever)",
       "applyUrl": "https://jobs.lever.co/cscgeneration-2/beb0ae61-de57-48e6-a324-5387bc94e81e/apply"
-    },
-    {
-      "company": "CSC Generation",
-      "title": "Seasonal Kitchen Assistant (Sur La Table)",
-      "reason": "The role does not confidently match a supported empluzzed category.",
-      "source": "Direct ATS (Lever)",
-      "applyUrl": "https://jobs.lever.co/cscgeneration-2/c4e2aa26-2cea-41ca-9d76-498f9cf91bb7/apply"
     },
     {
       "company": "CSC Generation",
@@ -98203,6 +98196,13 @@
       "title": "Seasonal Sales Associate (Sur La Table)",
       "reason": "The role does not confidently match a supported empluzzed category.",
       "source": "Direct ATS (Lever)",
+      "applyUrl": "https://jobs.lever.co/cscgeneration-2/3742c0d4-633d-48ac-aa86-31d8e4b1e443/apply"
+    },
+    {
+      "company": "CSC Generation",
+      "title": "Seasonal Sales Associate (Sur La Table)",
+      "reason": "The role does not confidently match a supported empluzzed category.",
+      "source": "Direct ATS (Lever)",
       "applyUrl": "https://jobs.lever.co/cscgeneration-2/3c3da101-b640-4dfc-87be-2968c317aef6/apply"
     },
     {
@@ -98253,13 +98253,6 @@
       "reason": "The role does not confidently match a supported empluzzed category.",
       "source": "Direct ATS (Lever)",
       "applyUrl": "https://jobs.lever.co/cscgeneration-2/59c8c487-d56a-4a1a-ac3f-415e4fc02278/apply"
-    },
-    {
-      "company": "CSC Generation",
-      "title": "Seasonal Sales Associate (Sur La Table)",
-      "reason": "The role does not confidently match a supported empluzzed category.",
-      "source": "Direct ATS (Lever)",
-      "applyUrl": "https://jobs.lever.co/cscgeneration-2/5cb604ec-cf86-4554-acf0-896685839b33/apply"
     },
     {
       "company": "CSC Generation",

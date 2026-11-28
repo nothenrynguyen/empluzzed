@@ -236,7 +236,7 @@
   "https://www.tower-research.com/open-positions": {
     "url": "https://www.tower-research.com/open-positions",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.eu.greenhouse.io:4823923101": {
@@ -379,19 +379,19 @@
   },
   "https://lifeattiktok.com/search/7669705785962727733": {
     "url": "https://lifeattiktok.com/search/7669705785962727733",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7668921505254410549": {
     "url": "https://lifeattiktok.com/search/7668921505254410549",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7669711844487399685": {
     "url": "https://lifeattiktok.com/search/7669711844487399685",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -403,37 +403,37 @@
   },
   "https://lifeattiktok.com/search/7667934860750063925": {
     "url": "https://lifeattiktok.com/search/7667934860750063925",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7667934302872537397": {
     "url": "https://lifeattiktok.com/search/7667934302872537397",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7667935399050692917": {
     "url": "https://lifeattiktok.com/search/7667935399050692917",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7667933335084124469": {
     "url": "https://lifeattiktok.com/search/7667933335084124469",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7667934635573692725": {
     "url": "https://lifeattiktok.com/search/7667934635573692725",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://lifeattiktok.com/search/7667935739300792629": {
     "url": "https://lifeattiktok.com/search/7667935739300792629",
-    "checkedAt": "2026-11-28T02:19:56.212Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -1255,7 +1255,7 @@
   },
   "https://lifeattiktok.com/search/7668843238309824773": {
     "url": "https://lifeattiktok.com/search/7668843238309824773",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -1327,7 +1327,7 @@
   },
   "https://lifeattiktok.com/search/7668561079544154373": {
     "url": "https://lifeattiktok.com/search/7668561079544154373",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -1351,7 +1351,7 @@
   },
   "https://lifeattiktok.com/search/7663036952090347829": {
     "url": "https://lifeattiktok.com/search/7663036952090347829",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -1363,7 +1363,7 @@
   },
   "https://lifeattiktok.com/search/7663042453461600517": {
     "url": "https://lifeattiktok.com/search/7663042453461600517",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -1825,7 +1825,7 @@
   },
   "https://joinbytedance.com/search/7668374190764050741": {
     "url": "https://joinbytedance.com/search/7668374190764050741",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -2180,7 +2180,7 @@
   "https://jobs.smartrecruiters.com/aerovect/743999725988642": {
     "url": "https://jobs.smartrecruiters.com/AeroVect/743999725988642",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/clinicalink/89163444": {
@@ -3391,7 +3391,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/cybersecurity-intern--summer-2027-_jr-2604459": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -4310,7 +4310,7 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---machine-learning-engineer_r171519": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "status": "unknown",
-    "checkedAt": "2026-11-18T17:18:07.561Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://brunswick.wd1.myworkdayjobs.com/en-us/search/job/fond-du-lac-wi/mercury-marine--software-controls-engineering-intern_jr-051436": {
@@ -5534,7 +5534,7 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---software-engineer_r171666": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
     "status": "unknown",
-    "checkedAt": "2026-11-18T17:18:07.561Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/newport-beach-ca-usa/xmlname-2027-summer-intern---product-strategy-analyst--us_r106626": {
@@ -5636,7 +5636,7 @@
   "https://adobe.wd5.myworkdayjobs.com/en-us/external_experienced/job/san-jose/xmlname-2027-intern---software-engineer_r171666": {
     "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
     "status": "unknown",
-    "checkedAt": "2026-11-18T17:18:07.561Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://careersus-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job": {
@@ -6164,8 +6164,8 @@
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/software-engineering-internship-2027_r49323": {
     "url": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
     "status": "unknown",
-    "checkedAt": "2026-11-22T01:18:12.254Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/new-york-ny/current-phd--applied-research-internship-program---summer-2027_r244323-1": {
     "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1",
@@ -7172,13 +7172,13 @@
   "app.careerpuck.com:8796124002": {
     "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "app.careerpuck.com:8767726002": {
     "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/blacksburg-va/intern--embedded-design-engineering_r-26-20053": {
@@ -11940,10 +11940,10 @@
     "httpStatus": 200
   },
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": {
-    "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+    "url": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
     "status": "unknown",
-    "checkedAt": "2026-11-21T00:18:27.129Z",
-    "httpStatus": 200
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/it-security-loss-prevention-intern---summer-2027_r250154": {
     "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154",
@@ -13646,19 +13646,19 @@
   "hdhl.fa.us6.oraclecloud.com:1007876": {
     "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007876",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "hdhl.fa.us6.oraclecloud.com:1007905": {
     "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007905",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/wellmarkinc/744000150732768": {
     "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---2027-summer-games-cyber-security-intern---mclean--va_r0249878": {
@@ -13790,7 +13790,7 @@
   "https://jobs.smartrecruiters.com/eurofins/744000150986035": {
     "url": "https://jobs.smartrecruiters.com/Eurofins/744000150986035",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/somerville-ma/information-security-intern_rq4078693": {
@@ -14000,7 +14000,7 @@
   "hdhl.fa.us6.oraclecloud.com:1007919": {
     "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "allegion.wd5.myworkdayjobs.com:jr37747": {
@@ -15101,12 +15101,6 @@
     "checkedAt": "2026-09-24T18:02:38.274Z",
     "httpStatus": 200
   },
-  "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/engineering-product-management-specialist-ii--intern----united-states_2026801": {
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-    "status": "unknown",
-    "checkedAt": "2026-10-29T15:25:31.480Z",
-    "httpStatus": 200
-  },
   "fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260821": {
     "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821",
     "status": "unknown",
@@ -15503,12 +15497,6 @@
     "checkedAt": "2026-11-19T02:18:01.184Z",
     "httpStatus": 200
   },
-  "https://career2.successfactors.eu/careers?career_job_req_id=136452&career_ns=job_listing&company=sf2013": {
-    "url": "https://career2.successfactors.eu/careers?career_job_req_id=136452&career_ns=job_listing&company=SF2013",
-    "status": "unknown",
-    "checkedAt": "2026-10-29T15:25:34.362Z",
-    "httpStatus": 200
-  },
   "https://career2.successfactors.eu/careers?career_job_req_id=136395&career_ns=job_listing&company=sf2013": {
     "url": "https://career2.successfactors.eu/careers?career_job_req_id=136395&career_ns=job_listing&company=SF2013",
     "status": "unknown",
@@ -15629,12 +15617,6 @@
     "checkedAt": "2026-11-09T22:25:41.071Z",
     "httpStatus": 200
   },
-  "www.dreamworkhq.com:87470b5e-0877-4ae2-a751-e442e302e1cf": {
-    "url": "https://www.dreamworkhq.com/job/87470b5e-0877-4ae2-a751-e442e302e1cf",
-    "status": "unknown",
-    "checkedAt": "2026-10-29T15:25:35.257Z",
-    "httpStatus": 200
-  },
   "www.dreamworkhq.com:00f7c997-4ef8-4291-8ba1-57c62ddea77f": {
     "url": "https://www.dreamworkhq.com/job/00f7c997-4ef8-4291-8ba1-57c62ddea77f",
     "status": "unknown",
@@ -15743,12 +15725,6 @@
     "checkedAt": "2026-11-09T22:25:41.254Z",
     "httpStatus": 200
   },
-  "www.dreamworkhq.com:217ba5a9-e8d6-42e5-87ac-c7c74b2813a2": {
-    "url": "https://www.dreamworkhq.com/job/217ba5a9-e8d6-42e5-87ac-c7c74b2813a2",
-    "status": "live",
-    "checkedAt": "2026-10-29T15:25:35.679Z",
-    "httpStatus": 200
-  },
   "www.dreamworkhq.com:042fa430-2519-44c1-a677-7378e9061c87": {
     "url": "https://www.dreamworkhq.com/job/042fa430-2519-44c1-a677-7378e9061c87",
     "status": "unknown",
@@ -15813,12 +15789,6 @@
     "url": "https://www.dreamworkhq.com/job/8c7430b0-a12c-4cb2-af45-80ea1417fec3",
     "status": "live",
     "checkedAt": "2026-11-09T22:25:41.546Z",
-    "httpStatus": 200
-  },
-  "www.dreamworkhq.com:5b25f723-9eba-4889-8527-d90c668372a4": {
-    "url": "https://www.dreamworkhq.com/job/5b25f723-9eba-4889-8527-d90c668372a4",
-    "status": "live",
-    "checkedAt": "2026-10-29T15:25:35.853Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:7d350319-a4a5-4971-b716-63f0ffac94bd": {
@@ -20431,7 +20401,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---austin/end-markets-intern--communications-infrastructure-and-datacenter--summer-2027-_jr-2604224": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/End-Markets-Intern--Communications-Infrastructure-and-Datacenter--Summer-2027-_JR-2604224",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -26017,7 +25987,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---austin/strategic-pricing---ai-analytics-intern--summer-2027-_jr-2605139": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -27764,7 +27734,7 @@
   "https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/new-york-city-united-states/intern---software-engineer_r0124266-1": {
     "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": {
@@ -30386,7 +30356,7 @@
   "https://jobs.smartrecruiters.com/abbvie/3743990016186871": {
     "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016186871",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/co-op--robot-manipulation_r8257": {
@@ -30458,8 +30428,8 @@
   "https://disney.wd5.myworkdayjobs.com/en-us/disneycareer/job/glendale-ca-usa/disney---pixar-games-production-intern--spring-2027_10159030": {
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030",
     "status": "unknown",
-    "checkedAt": "2026-11-17T19:18:37.966Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000155109379": {
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155109379",
@@ -34027,7 +33997,7 @@
   },
   "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/bellevue-wa-seattle/new-grad-electrical-engineering-i--2027-_r-31682-1": {
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Bellevue-WA-Seattle/New-Grad-Electrical-Engineering-I--2027-_R-31682-1",
-    "checkedAt": "2026-11-27T15:19:26.939Z",
+    "checkedAt": "2026-11-28T16:18:59.670Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -34531,7 +34501,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---richardson/ai-ml-systems-engineering-intern--summer-2027-_jr-2604051": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -34813,7 +34783,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---texas---richardson/ai-ml-systems-engineer--2027-new-college-graduate-_jr-2604163": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -35198,13 +35168,13 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---ai---architecture_r172998": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
     "status": "unknown",
-    "checkedAt": "2026-11-17T20:18:29.231Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---data--ai---innovation_r172997": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
     "status": "unknown",
-    "checkedAt": "2026-11-17T20:18:29.231Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "ptc.wd1.myworkdayjobs.com:jr112886": {
@@ -35216,8 +35186,8 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
     "status": "unknown",
-    "checkedAt": "2026-11-17T20:18:29.231Z",
-    "httpStatus": null
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/austin-texas-united-states-of-america/software-product-management-intern_uni4516": {
     "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516",
@@ -35246,7 +35216,7 @@
   "https://careers.nintendo.com": {
     "url": "https://careers.nintendo.com",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-121--350-collins-rd-ne--bldg-121/software-engineering-intern--summer-2027-_01880499": {
@@ -35312,7 +35282,7 @@
   "https://fda.fa.us1.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/3371": {
     "url": "https://fda.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3371",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://pae.wd1.myworkdayjobs.com/en-us/amentum_careers/job/us-dc-washington/software-developer---junior--team-01-_r0167603": {
@@ -35336,13 +35306,13 @@
   "job-boards.greenhouse.io:4457775009": {
     "url": "https://job-boards.greenhouse.io/fourhands/jobs/4457775009",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:4458217009": {
     "url": "https://job-boards.greenhouse.io/fourhands/jobs/4458217009",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:4721134006": {
@@ -35354,19 +35324,19 @@
   "https://jobs.smartrecruiters.com/boschgroup/744000154765539": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765539",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000152463644": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152463644",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000151687099": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151687099",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:4715490006": {
@@ -35384,7 +35354,7 @@
   "https://jobs.smartrecruiters.com/boschgroup/744000145511458": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145511458",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/lake-buena-vista-fl-usa/walt-disney-world-transportation-logistics---analytics-intern--spring-2027_10158253-2": {
@@ -35744,8 +35714,8 @@
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/glendale-ca-usa/product-design--accessories--intern--spring-2027_10160436-1": {
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Design--Accessories--Intern--Spring-2027_10160436-1",
     "status": "unknown",
-    "checkedAt": "2026-11-17T19:18:37.966Z",
-    "httpStatus": null
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "https://disney.wd5.myworkdayjobs.com/disneycareer/job/kissimmee-fl-usa/product-design--toys--intern--spring-2027_10160487": {
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487",
@@ -35756,7 +35726,7 @@
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/kissimmee-fl-usa/product-design--toys--intern--spring-2027_10160487-1": {
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487-1",
     "status": "unknown",
-    "checkedAt": "2026-11-17T19:18:37.966Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/glendale-ca-usa/product-design---licensed-toys-intern--spring-2027_10160441-1": {
@@ -35912,7 +35882,7 @@
   "https://jobs.smartrecruiters.com/linkedin3/744000156616169": {
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "micron.wd1.myworkdayjobs.com:jr114750": {
@@ -36086,8 +36056,8 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
     "status": "unknown",
-    "checkedAt": "2026-11-18T17:18:07.561Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://cbrands.wd5.myworkdayjobs.com/en-us/cbi_external_careers/job/rochester-new-york/intern--ai-enablement_r-41526": {
     "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
@@ -37363,7 +37333,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/advanced-manufacturing-equipment-engineer--2027-new-college-graduate-_jr-2604706": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604706",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -37383,12 +37353,6 @@
     "url": "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
     "status": "unknown",
     "checkedAt": "2026-10-31T01:23:33.394Z",
-    "httpStatus": 200
-  },
-  "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/louisville-co/summer-2027-flight-software-engineer-intern_r26456": {
-    "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
-    "status": "unknown",
-    "checkedAt": "2026-10-29T15:25:32.958Z",
     "httpStatus": 200
   },
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/technical-intern---ai-and-estimation_rq230646": {
@@ -37423,7 +37387,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---california---santa-clara/software-engineering-intern--cloud-platform--summer-2027-_jr-2604034": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -39445,7 +39409,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/reliability-test-engineering-intern--summer-2027-_jr-2604361": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -39728,7 +39692,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000157570319": {
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/toronto-ontario/job-posting-title-l-h-product-management-intern-co-op--winter-2027-_r_1506721": {
@@ -49790,7 +49754,7 @@
   "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:392190": {
     "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://visa.wd5.myworkdayjobs.com/visa/job/us---denver-co/xmlname-2027-sophomore-internship-program---software-engineer-intern--highlands-ranch_ref089880w-1": {
@@ -54146,7 +54110,7 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/usa---arlington-va/intelligence-launch-intern---summer-2027_r30648": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30648",
     "status": "unknown",
-    "checkedAt": "2026-11-22T10:18:23.195Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://gaig.wd1.myworkdayjobs.com/en-us/gaig_external/job/cincinnati-oh-usa/emerging-technology-intern---summer-2027_r9801": {
@@ -54949,7 +54913,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---new-york---malta/apl-quantum-intern--summer-2027-_jr-2604434": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/APL-Quantum-Intern--Summer-2027-_JR-2604434",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -55244,8 +55208,8 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/usa---arlington-va/professional-services-explorer-intern---summer-2027--arlington--va-_r30155": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155",
     "status": "unknown",
-    "checkedAt": "2026-11-19T06:36:17.088Z",
-    "httpStatus": null
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "dairynet.wd1.myworkdayjobs.com:jr101074": {
     "url": "https://dairynet.wd1.myworkdayjobs.com/en-US/DPCcareers/job/La-Crosse-Wisconsin/Intern--Technical-Training--On-Site---La-Crosse--WI-_JR101074",
@@ -55453,7 +55417,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---new-york---malta/technology-architecture-engineering-intern--summer-2027-_jr-2604362": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -55507,7 +55471,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---new-york---malta/quantum-technology-services-intern--summer-2027-_jr-2604438": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604438",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -58633,7 +58597,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---texas---richardson/xmlname-1h-university-intern---pvd-equipment_jr-2502699": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -59665,7 +59629,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---austin/device-compact-modeling-engineer--2027-new-college-graduate-_jr-2604318": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Device-Compact-Modeling-Engineer--2027-New-College-Graduate-_JR-2604318",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -59797,7 +59761,7 @@
   },
   "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/charlotte-nc/new-grad-engineer-i--project-controls---summer-2027_r-31698-1": {
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Charlotte-NC/New-Grad-Engineer-I--Project-Controls---Summer-2027_R-31698-1",
-    "checkedAt": "2026-11-27T15:19:26.939Z",
+    "checkedAt": "2026-11-28T16:18:59.670Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -59888,13 +59852,13 @@
   "job-boards.greenhouse.io:4458313009": {
     "url": "https://job-boards.greenhouse.io/fourhands/jobs/4458313009",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000153601138": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153601138",
-    "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "status": "closed",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-nc-winston-salem-190--190-oak-plaza-blvd--bldg-190/certification-engineer-co-op--winter-spring-2027--onsite-_01871317-1": {
@@ -59906,7 +59870,7 @@
   "https://jobs.smartrecruiters.com/boschgroup/744000153195961": {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153195961",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:4718200006": {
@@ -60721,7 +60685,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/environmental-engineering-intern--summer-2027-_jr-2604239": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Engineering-Intern--Summer-2027-_JR-2604239",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -61862,7 +61826,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000157571919": {
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-woodland-hills/xmlname-2027--associate-systems-engineer---integration---test---woodland-hills-ca_r10257368": {
@@ -61880,7 +61844,7 @@
   "https://jobs.smartrecruiters.com/abbvie/3743990016249756": {
     "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016249756",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/spring-texas-united-states-of-america/technology-consultant-graduate_1217412-1": {
@@ -61964,7 +61928,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000107369741": {
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000107369741",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "jobs.lever.co:52ba79af-1086-457d-b5d2-8e184f111ffd": {
@@ -61988,7 +61952,7 @@
   "job-boards.greenhouse.io:4703827005": {
     "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703827005",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.usajobs.gov:889227800": {
@@ -62053,7 +62017,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/advanced-manufacturing-engineering-intern--process---equipment--summer-2027-_jr-2604592": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -64255,7 +64219,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---california---santa-clara/digital-design-backend-engineering-intern--3d-and-ai-flows_jr-2604355": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -65090,7 +65054,7 @@
   "www.dreamworkhq.com:f71e14ec-fcaa-4ce5-91a8-d3e3dc60fa2e": {
     "url": "https://www.dreamworkhq.com/job/f71e14ec-fcaa-4ce5-91a8-d3e3dc60fa2e",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:bbe346a8-f1d5-4ec6-b4c2-2dada3205eb0": {
@@ -65126,7 +65090,7 @@
   "www.dreamworkhq.com:a70078b6-7ad2-48c4-843b-2a92bf8b6eab": {
     "url": "https://www.dreamworkhq.com/job/a70078b6-7ad2-48c4-843b-2a92bf8b6eab",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:d44d1aaf-2528-44ef-8cb5-e7538c38e49a": {
@@ -65198,7 +65162,7 @@
   "www.dreamworkhq.com:8975dce5-b5e5-499c-915b-aae97ff824d9": {
     "url": "https://www.dreamworkhq.com/job/8975dce5-b5e5-499c-915b-aae97ff824d9",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:3079ce6a-86a0-4e84-84da-759edd8a6444": {
@@ -65222,7 +65186,7 @@
   "www.dreamworkhq.com:9d81f8d9-a0d4-472d-91fb-8e5589f37da4": {
     "url": "https://www.dreamworkhq.com/job/9d81f8d9-a0d4-472d-91fb-8e5589f37da4",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:83bb47fc-5a8d-40d2-b473-d31b1352714f": {
@@ -65258,7 +65222,7 @@
   "www.dreamworkhq.com:b868d704-74d4-4e57-969b-20690ff5d365": {
     "url": "https://www.dreamworkhq.com/job/b868d704-74d4-4e57-969b-20690ff5d365",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:6bc69a10-de25-40cb-92ed-7e5455e7c226": {
@@ -65486,7 +65450,7 @@
   "https://go.vansh.nyc/10j?s=y": {
     "url": "https://go.vansh.nyc/10J?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://go.vansh.nyc/10u?s=y": {
@@ -65780,7 +65744,7 @@
   "https://recruiting.paylocity.com/recruiting/jobs/details/4630054": {
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4630054",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://go.vansh.nyc/112?s=z": {
@@ -65864,7 +65828,7 @@
   "https://morningstar.wd5.myworkdayjobs.com/en-us/confidential/job/chicago/morningstar-summer-tech-internship-program-2027--campus-_req-058463-1": {
     "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/confidential/job/Chicago/Morningstar-Summer-Tech-Internship-Program-2027--Campus-_REQ-058463-1",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/plantation-fl/program-manager-intern---summer-2027_r69762": {
@@ -68060,8 +68024,8 @@
   "https://disney.wd5.myworkdayjobs.com/en-us/disneycareerdc/job/philadelphia-pa-usa/wpvi--tv--6abc--technology-intern--spring-2027_10158631-1": {
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631-1",
     "status": "unknown",
-    "checkedAt": "2026-11-19T18:18:25.547Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "job-boards.greenhouse.io:4687337006": {
     "url": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006",
@@ -69998,7 +69962,7 @@
   "https://go.vansh.nyc/17d?s=y": {
     "url": "https://go.vansh.nyc/17D?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://go.vansh.nyc/17c?s=y": {
@@ -70016,7 +69980,7 @@
   "https://go.vansh.nyc/15h?s=y": {
     "url": "https://go.vansh.nyc/15H?s=y",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://go.vansh.nyc/18q?s=y": {
@@ -70034,13 +69998,13 @@
   "https://accuray.wd5.myworkdayjobs.com/en-us/external/job/madison-wi/sourcing-data-management-intern_3265": {
     "url": "https://accuray.wd5.myworkdayjobs.com/en-US/external/job/Madison-WI/Sourcing-Data-Management-Intern_3265",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://jobs.smartrecruiters.com/axleinformaticsllc/87331012": {
     "url": "https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://bbinsurance.wd1.myworkdayjobs.com/en-us/careers/job/daytona-beach-fl-usa/technology-solutions-intern_r26_0000003183": {
@@ -70136,7 +70100,7 @@
   "creationtech.wd1.myworkdayjobs.com:jr6972": {
     "url": "https://creationtech.wd1.myworkdayjobs.com/en-US/Creation/job/Newark-NY-USA/Test-Engineering-Intern_JR6972",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://dtna.wd5.myworkdayjobs.com/en-us/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
@@ -70184,13 +70148,13 @@
   "job-boards.greenhouse.io:4244219009": {
     "url": "https://job-boards.greenhouse.io/divcowest/jobs/4244219009",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://everestre.wd5.myworkdayjobs.com/en-us/careers/job/warren-nj/xmlname-2027-technology-internship-program_r7404": {
     "url": "https://everestre.wd5.myworkdayjobs.com/en-US/careers/job/Warren-NJ/XMLNAME-2027-Technology-Internship-Program_R7404",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://factset.wd108.myworkdayjobs.com/en-us/factsetcareers/job/new-york-ny-usa/client-solutions-internship---new-york--summer-2027_r32706": {
@@ -70220,7 +70184,7 @@
   "job-boards.greenhouse.io:4410446009": {
     "url": "https://job-boards.greenhouse.io/hevenaerotech/jobs/4410446009",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:4739898005": {
@@ -70250,7 +70214,7 @@
   "https://championx.wd1.myworkdayjobs.com/en-us/championx_external/job/usa---texas---sugar-land/reliability-engineering-co-op_r00137277": {
     "url": "https://championx.wd1.myworkdayjobs.com/en-US/championx_external/job/USA---Texas---Sugar-Land/Reliability-Engineering-Co-Op_R00137277",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://cenovus.wd3.myworkdayjobs.com/en-us/careers/job/ca-ab-calgary/new-grad--process-data-solutions--calgary--june-2027-_r-411229-1": {
@@ -73490,7 +73454,7 @@
   "https://go.vansh.nyc/1cr?s=y": {
     "url": "https://go.vansh.nyc/1cr?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://go.vansh.nyc/1cs?s=y": {
@@ -73562,7 +73526,7 @@
   "https://go.vansh.nyc/1d9?s=y": {
     "url": "https://go.vansh.nyc/1d9?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://go.vansh.nyc/1da?s=y": {
@@ -73604,7 +73568,7 @@
   "https://go.vansh.nyc/1d7?s=y": {
     "url": "https://go.vansh.nyc/1d7?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://go.vansh.nyc/1dm?s=y": {
@@ -73634,7 +73598,7 @@
   "https://go.vansh.nyc/1do?s=y": {
     "url": "https://go.vansh.nyc/1do?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://go.vansh.nyc/1d0?s=y": {
@@ -73658,8 +73622,8 @@
   "https://go.vansh.nyc/1cx?s=y": {
     "url": "https://go.vansh.nyc/1cx?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
-    "httpStatus": 200
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "https://go.vansh.nyc/1cy?s=y": {
     "url": "https://go.vansh.nyc/1Cy?s=y",
@@ -73838,7 +73802,7 @@
   "https://northwesternmutual.wd5.myworkdayjobs.com/en-us/corporate-careers/job/milwaukee-wi-corporate/investment-strategy-analyst-intern--summer-2027_jr-46324": {
     "url": "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Investment-Strategy-Analyst-Intern--Summer-2027_JR-46324",
     "status": "unknown",
-    "checkedAt": "2026-11-19T13:18:48.403Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "nvidia.wd5.myworkdayjobs.com:jr2029220": {
@@ -80456,7 +80420,7 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-francisco/xmlname-2027-intern---brand-creative_r173411": {
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411",
     "status": "unknown",
-    "checkedAt": "2026-11-18T17:18:07.561Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "recruiting.ultipro.com:0127d5ea-e4e8-48ee-a74a-cc71dcd13133": {
@@ -81050,8 +81014,8 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/usa---arlington-va/intelligence-intern---summer-2027_r30605": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605",
     "status": "unknown",
-    "checkedAt": "2026-11-21T09:18:13.466Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://dukeenergy.wd1.myworkdayjobs.com/en-us/search/job/charlotte-nc/ux-design-internship---summer-2027_r41850": {
     "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
@@ -83018,7 +82982,7 @@
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--ui-ux_r9673": {
     "url": "https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673",
     "status": "unknown",
-    "checkedAt": "2026-11-22T15:18:12.567Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://fox.wd1.myworkdayjobs.com/domestic/job/los-angeles-california-usa/summer-2027-fox-corporation-internship---planning--design--and-construction---los-angeles_r50034253": {
@@ -84302,8 +84266,8 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/usa---arlington-va/professional-services-pathfinder-intern---red-team---summer-2027_r30780": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780",
     "status": "unknown",
-    "checkedAt": "2026-11-19T06:36:17.088Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://jobs.smartrecruiters.com/eurofins/744000160227012": {
     "url": "https://jobs.smartrecruiters.com/Eurofins/744000160227012",
@@ -86078,7 +86042,7 @@
   "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/business-intelligence---data-analytics-intern_r121949": {
     "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://careers.rivian.com/jobs/35896?lang=en-us": {
@@ -87608,13 +87572,13 @@
   "https://go.vansh.nyc/1nf?s=y": {
     "url": "https://go.vansh.nyc/1nf?s=y",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://go.vansh.nyc/1nc?s=y": {
     "url": "https://go.vansh.nyc/1nC?s=y",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "www.dreamworkhq.com:03381446": {
@@ -87920,8 +87884,8 @@
   "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/epro-business---data-analyst-intern_r121996": {
     "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://go.vansh.nyc/1ok?s=y": {
     "url": "https://go.vansh.nyc/1ok?s=y",
@@ -88004,13 +87968,13 @@
   "https://sec.wd3.myworkdayjobs.com/en-us/samsung_careers/job/6625-excellence-way-plano-tx-usa/business-strategy---intelligence-intern_r121962": {
     "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Strategy---Intelligence-Intern_R121962",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://sec.wd3.myworkdayjobs.com/en-us/samsung_careers/job/6625-excellence-way-plano-tx-usa/epro-business---data-analyst-intern_r121996": {
     "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "job-boards.greenhouse.io:4482958009": {
@@ -91346,7 +91310,7 @@
   "https://go.vansh.nyc/1sw?s=y": {
     "url": "https://go.vansh.nyc/1sW?s=y",
     "status": "unknown",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://go.vansh.nyc/1sd?s=y": {
@@ -92036,8 +92000,8 @@
   "https://sec.wd3.myworkdayjobs.com/en-us/samsung_careers/job/6555-excellence-way-plano-tx-usa/xmlname-5g-network-intelligence-and-automation-intern_r121959": {
     "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
-    "httpStatus": null
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": 429
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-business-analytics---reporting-internship_req381319": {
     "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Business-Analytics---Reporting-Internship_REQ381319",
@@ -92077,7 +92041,7 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---richardson/ai-processor-hardware-software-integration-engineer-intern--summer-2027-_jr-2604028": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
@@ -105788,8 +105752,8 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/usa---arlington-va/intelligence-launch-intern---summer-2027_r30506": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30506",
     "status": "unknown",
-    "checkedAt": "2026-11-22T10:18:23.195Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://dtna.wd5.myworkdayjobs.com/en-us/dtna_external/job/mount-holly-nc-us/it-developer-analyst-intern_dt-20681": {
     "url": "https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
@@ -105800,7 +105764,7 @@
   "https://ilitch.wd5.myworkdayjobs.com/en-us/lc/job/detroit-mi/retail-tech-ap-intern_r9741": {
     "url": "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Retail-Tech-AP-Intern_R9741",
     "status": "unknown",
-    "checkedAt": "2026-11-22T02:18:13.976Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 429
   },
   "https://quickenloans.wd5.myworkdayjobs.com/en-us/rocket_careers/job/detroit-mi/instructional-design-intern---summer-2027_r-084817": {
@@ -107750,7 +107714,7 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---arlington-va/insider-risk-engineering-intern---summer-2027_r30718": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718",
     "status": "unknown",
-    "checkedAt": "2026-11-20T07:18:45.565Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job": {
@@ -111080,7 +111044,7 @@
   "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-clyde-avenue-mountain-view-ca-usa/technical-product-management-intern---d2c-shopping-experiences--mobile---consumer-electronics-_r122020": {
     "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/645-clyde-avenue-mountain-view-ca-usa/technical-product-management-intern---d2c-shopping-experiences--mobile---consumer-electronics-_r122020",
     "status": "unknown",
-    "checkedAt": "2026-11-21T07:31:32.184Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://campingworld.wd5.myworkdayjobs.com/en-us/jobs/job/chicago-il/ai-intern_26_09302": {
@@ -111211,7 +111175,7 @@
   },
   "https://joinbytedance.com/search/7672391300141877557": {
     "url": "https://joinbytedance.com/search/7672391300141877557",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -111277,7 +111241,7 @@
   },
   "https://joinbytedance.com/search/7671096345243535669": {
     "url": "https://joinbytedance.com/search/7671096345243535669",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -111313,25 +111277,25 @@
   },
   "https://joinbytedance.com/search/7673268418623293749": {
     "url": "https://joinbytedance.com/search/7673268418623293749",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://joinbytedance.com/search/7665468666810370309": {
     "url": "https://joinbytedance.com/search/7665468666810370309",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://joinbytedance.com/search/7673626147481291061": {
     "url": "https://joinbytedance.com/search/7673626147481291061",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://joinbytedance.com/search/7669774721406208261": {
     "url": "https://joinbytedance.com/search/7669774721406208261",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -111355,7 +111319,7 @@
   },
   "https://joinbytedance.com/search/7623536303630469381": {
     "url": "https://joinbytedance.com/search/7623536303630469381",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -111541,13 +111505,13 @@
   },
   "https://joinbytedance.com/search/7673632479987992837": {
     "url": "https://joinbytedance.com/search/7673632479987992837",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://joinbytedance.com/search/7667976924430633269": {
     "url": "https://joinbytedance.com/search/7667976924430633269",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -111727,13 +111691,13 @@
   },
   "https://joinbytedance.com/search/7668614787018393909": {
     "url": "https://joinbytedance.com/search/7668614787018393909",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
   "https://joinbytedance.com/search/7670932427485186309": {
     "url": "https://joinbytedance.com/search/7670932427485186309",
-    "checkedAt": "2026-11-28T03:19:11.118Z",
+    "checkedAt": "2026-11-28T16:18:48.542Z",
     "httpStatus": 200,
     "status": "live"
   },
@@ -114805,32 +114769,32 @@
   },
   "https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000162190999": {
     "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162190999",
-    "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "status": "closed",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000162353069": {
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000162353069",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/aecom2/744000162370859": {
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000162370859",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/pyrotek3/744000162385949": {
-    "url": "https://jobs.smartrecruiters.com/pyrotek3/744000162385949",
+    "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
     "status": "live",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "https://jobs.smartrecruiters.com/syngentagroup/744000162383708": {
     "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708",
     "status": "closed",
-    "checkedAt": "2026-11-22T16:18:04.764Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": 200
   },
   "job-boards.greenhouse.io:6249810004": {
@@ -117866,13 +117830,13 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/product-engineering-intern---falcon-guardian_r30622": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
     "status": "unknown",
-    "checkedAt": "2026-11-20T07:18:45.565Z",
-    "httpStatus": 429
+    "checkedAt": "2026-11-28T16:18:36.504Z",
+    "httpStatus": null
   },
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/mba-product-manager-intern_r30957": {
     "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957",
     "status": "unknown",
-    "checkedAt": "2026-11-20T07:18:45.565Z",
+    "checkedAt": "2026-11-28T16:18:36.504Z",
     "httpStatus": null
   },
   "https://go.vansh.nyc/1e2?s=y": {
@@ -125203,13 +125167,13 @@
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/ai-enabled-device-modeling-intern--summer-2027-_jr-2604437": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling-Intern--Summer-2027-_JR-2604437",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---new-york---malta/ai-enabled-pdk-development-intern--summer-2027-_jr-2604440": {
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440",
-    "checkedAt": "2026-11-28T15:19:09.700Z",
+    "checkedAt": "2026-11-28T16:19:02.357Z",
     "status": "unknown",
     "httpStatus": null
   },

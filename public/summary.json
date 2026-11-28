@@ -4,25 +4,25 @@
     "internships": 363,
     "fulltime": 310
   },
-  "generatedAt": "2026-11-28T15:20:31.273Z",
-  "totalJobs": 6164,
-  "internships": 3576,
-  "fulltime": 2588,
+  "generatedAt": "2026-11-28T16:20:00.917Z",
+  "totalJobs": 6162,
+  "internships": 3575,
+  "fulltime": 2587,
   "screenedOut": 6325,
   "closedPostingsCaught": 163,
   "screening": {
     "version": 1,
     "unit": "application_destinations",
-    "reviewed": 19849,
-    "accepted": 6191,
+    "reviewed": 19847,
+    "accepted": 6189,
     "excluded": 6325,
     "pendingVerification": 7333,
     "uncountedRecords": 0,
     "reasons": {
       "closed": 163,
       "expired": 52,
-      "location": 1644,
-      "role": 4458,
+      "location": 1645,
+      "role": 4457,
       "employer": 8
     }
   },
@@ -41,9 +41,9 @@
       "total": 930,
       "healthy": 872,
       "partial": 0,
-      "rate_limited": 58,
+      "rate_limited": 0,
       "unavailable": 0,
-      "cooldown": 0
+      "cooldown": 58
     },
     "recovery": {
       "total": 1,
