@@ -3279,31 +3279,31 @@
     },
     {
       "date": "2026-11-28",
-      "openRoles": 6161,
-      "internships": 3576,
+      "openRoles": 6164,
+      "internships": 3579,
       "fulltime": 2585,
       "freshListings7d": 644,
-      "activeCompanies": 970,
-      "screenedOut": 14188,
+      "activeCompanies": 971,
+      "screenedOut": 14189,
       "closedPostingsCaught": 869,
       "workModes": {
         "remote": 338,
-        "hybrid": 506,
+        "hybrid": 509,
         "in_person": 846,
         "unknown": 4471
       },
       "regions": {
-        "us": 5896,
+        "us": 5898,
         "canada": 137,
-        "uk": 134
+        "uk": 135
       },
       "metros": {
         "sf-bay-area": 1153,
         "new-york-city": 467,
-        "seattle": 385,
+        "seattle": 386,
         "boston": 279,
         "los-angeles": 688,
-        "austin": 309,
+        "austin": 310,
         "chicago": 187,
         "washington-dc": 195,
         "dallas-fort-worth": 116,
@@ -3312,10 +3312,10 @@
         "raleigh-durham": 63,
         "toronto": 42,
         "vancouver": 18,
-        "london": 71
+        "london": 72
       },
       "roleAreas": {
-        "software": 1620,
+        "software": 1621,
         "data-science": 404,
         "product": 83,
         "hardware": 359,

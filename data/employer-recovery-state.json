@@ -3930,25 +3930,25 @@
     "accessDenied": false
   },
   "https://zillow.wd5.myworkdayjobs.com/en-us/zillow_group_external/job/seattle-wa-2nd-ave/applied-scientist--economics--intern_p751642-1": {
-    "checkedAt": "2026-11-27T08:20:31.774Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown"
   },
   "https://zillow.wd5.myworkdayjobs.com/en-us/zillow_group_external/job/seattle-wa-2nd-ave/data-science-intern_p751677-1": {
-    "checkedAt": "2026-11-27T08:20:31.774Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/seattle-wa-2nd-ave/data-science-intern_p751677-1": {
-    "checkedAt": "2026-11-27T08:20:31.774Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "https://zillow.wd5.myworkdayjobs.com/en-us/zillow_group_external/job/seattle-wa-2nd-ave/software-development-engineer---intern_p751630": {
-    "checkedAt": "2026-11-27T08:20:31.774Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/seattle-wa-2nd-ave/software-development-engineer---intern_p751630": {
-    "checkedAt": "2026-11-26T08:19:51.028Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown",
+    "accessDenied": true
   },
   "insperity.wd12.myworkdayjobs.com:jr103439": {
     "checkedAt": "2026-10-29T08:27:31.143Z",
@@ -10397,13 +10397,31 @@
     "accessDenied": true
   },
   "workday:expedia.wd108.myworkdayjobs.com:private:r-110551": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown",
     "accessDenied": false
   },
   "workday:expedia.wd108.myworkdayjobs.com:private:r-110545": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "live",
+    "candidate": {
+      "company": "Expedia Group",
+      "title": "Mobile Engineering Intern - 2027 - London",
+      "term": "Not stated",
+      "location": "UK - London, United Kingdom",
+      "workMode": "hybrid",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+      "category": "Internship",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Mobile Engineering Intern - 2027 - London UK - London, United Kingdom General Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "general-engineering"
+      ]
+    }
   },
   "workday:dxctechnology.wd1.myworkdayjobs.com:dxcjobs:51586935": {
     "checkedAt": "2026-11-27T13:19:55.067Z",
@@ -11796,8 +11814,26 @@
     "accessDenied": true
   },
   "workday:expedia.wd108.myworkdayjobs.com:private:r-110311": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "live",
+    "candidate": {
+      "company": "Expedia Group",
+      "title": "Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle",
+      "term": "Not stated",
+      "location": "Washington - Seattle Campus, United States of America",
+      "workMode": "hybrid",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
+      "category": "Internship",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle Washington - Seattle Campus, United States of America Software Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "software-engineering"
+      ]
+    }
   },
   "workday:elkay.wd1.myworkdayjobs.com:elkay_external:req-020015": {
     "checkedAt": "2026-11-16T09:19:40.965Z",
@@ -11819,9 +11855,26 @@
     "accessDenied": true
   },
   "workday:expedia.wd108.myworkdayjobs.com:private:r-110306": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "live",
+    "candidate": {
+      "company": "Expedia Group",
+      "title": "Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle",
+      "term": "Not stated",
+      "location": "Austin Domain 11 - HomeAway, United States of America",
+      "workMode": "hybrid",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306",
+      "category": "Internship",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle Austin Domain 11 - HomeAway, United States of America General Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "general-engineering"
+      ]
+    }
   },
   "workday:thales.wd3.myworkdayjobs.com:careers:r0337760": {
     "checkedAt": "2026-11-27T14:20:44.211Z",
@@ -13147,26 +13200,8 @@
     "status": "unknown"
   },
   "workday:q2ebanking.wd5.myworkdayjobs.com:q2:req-12796": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "live",
-    "candidate": {
-      "company": "Q2 🛂",
-      "title": "2027 Summer Internship - Data Science",
-      "term": "Not stated",
-      "location": "Austin, Texas, United States of America",
-      "workMode": "unknown",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "postedAtSource": "date_only",
-      "applyUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
-      "category": "Internship",
-      "salary": null,
-      "source": "Employer recovery",
-      "rawText": "2027 Summer Internship - Data Science Austin, Texas, United States of America Data Science",
-      "sourceActive": true,
-      "roleTags": [
-        "data-science"
-      ]
-    }
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown"
   },
   "workday:cat.wd5.myworkdayjobs.com:caterpillarcareers:r0000392335": {
     "checkedAt": "2026-11-24T21:19:54.288Z",
@@ -13921,26 +13956,9 @@
     }
   },
   "workday:q2ebanking.wd5.myworkdayjobs.com:q2:req-12794": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "live",
-    "candidate": {
-      "company": "Q2 🛂",
-      "title": "2027 Summer Internship - Software Engineer",
-      "term": "Not stated",
-      "location": "Austin, Texas, United States of America",
-      "workMode": "unknown",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "postedAtSource": "date_only",
-      "applyUrl": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
-      "category": "Internship",
-      "salary": null,
-      "source": "Employer recovery",
-      "rawText": "2027 Summer Internship - Software Engineer Austin, Texas, United States of America Software Engineering",
-      "sourceActive": true,
-      "roleTags": [
-        "software-engineering"
-      ]
-    }
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown",
+    "accessDenied": true
   },
   "workday:micron.wd1.myworkdayjobs.com:external:jr111461": {
     "checkedAt": "2026-11-10T16:26:43.608Z",
@@ -15691,11 +15709,11 @@
     "accessDenied": true
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2026920": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2026923": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "workday:allegion.wd5.myworkdayjobs.com:careers:jr37856": {
@@ -15725,9 +15743,8 @@
     "status": "unknown"
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2026913": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown"
   },
   "workday:amfam.wd1.myworkdayjobs.com:amfamgroupinterncareers:r39407": {
     "checkedAt": "2026-11-27T08:20:31.774Z",
@@ -15781,9 +15798,8 @@
     "status": "unknown"
   },
   "workday:q2ebanking.wd5.myworkdayjobs.com:q2:req-12797": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown"
   },
   "workday:oshkoshcorporation.wd5.myworkdayjobs.com:oshkosh:r49598": {
     "checkedAt": "2026-11-25T12:12:36.433Z",
@@ -20306,8 +20322,9 @@
     "accessDenied": true
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2023953": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown",
+    "accessDenied": true
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2025887": {
     "checkedAt": "2026-11-27T12:19:26.705Z",
@@ -20332,7 +20349,7 @@
     "accessDenied": true
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2027364": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "workday:clearwateranalytics.wd1.myworkdayjobs.com:clearwater_analytics_careers:r12215": {
@@ -20359,7 +20376,7 @@
     "status": "unknown"
   },
   "workday:cisco.wd5.myworkdayjobs.com:cisco_careers:2027249": {
-    "checkedAt": "2026-11-26T11:20:17.862Z",
+    "checkedAt": "2026-11-28T13:08:52.350Z",
     "status": "unknown"
   },
   "workday:conagrabrands.wd1.myworkdayjobs.com:careers_us:req-039787": {
@@ -20623,8 +20640,9 @@
     "status": "unknown"
   },
   "workday:expedia.wd108.myworkdayjobs.com:search:r-110305": {
-    "checkedAt": "2026-11-27T12:19:26.705Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T13:08:52.350Z",
+    "status": "unknown",
+    "accessDenied": false
   },
   "workday:entegris.wd1.myworkdayjobs.com:entegriscareers:req-14471": {
     "checkedAt": "2026-11-26T00:19:56.899Z",
