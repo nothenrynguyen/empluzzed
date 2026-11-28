@@ -3279,21 +3279,21 @@
     },
     {
       "date": "2026-11-28",
-      "openRoles": 6166,
-      "internships": 3578,
+      "openRoles": 6164,
+      "internships": 3576,
       "fulltime": 2588,
       "freshListings7d": 642,
-      "activeCompanies": 973,
+      "activeCompanies": 971,
       "screenedOut": 14187,
-      "closedPostingsCaught": 873,
+      "closedPostingsCaught": 871,
       "workModes": {
-        "remote": 340,
-        "hybrid": 510,
-        "in_person": 848,
-        "unknown": 4468
+        "remote": 339,
+        "hybrid": 509,
+        "in_person": 847,
+        "unknown": 4469
       },
       "regions": {
-        "us": 5900,
+        "us": 5898,
         "canada": 137,
         "uk": 135
       },
@@ -3302,8 +3302,8 @@
         "new-york-city": 468,
         "seattle": 386,
         "boston": 279,
-        "los-angeles": 688,
-        "austin": 310,
+        "los-angeles": 689,
+        "austin": 309,
         "chicago": 186,
         "washington-dc": 195,
         "dallas-fort-worth": 117,
@@ -3316,14 +3316,14 @@
       },
       "roleAreas": {
         "software": 1625,
-        "data-science": 404,
+        "data-science": 403,
         "product": 83,
         "hardware": 359,
         "process-manufacturing": 272,
         "quant": 148,
         "finance": 463,
         "business-analyst": 73,
-        "it-network": 210
+        "it-network": 209
       }
     }
   ]

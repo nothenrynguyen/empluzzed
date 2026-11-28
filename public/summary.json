@@ -1,27 +1,27 @@
 {
   "awaitingVerification": {
-    "total": 672,
-    "internships": 362,
-    "fulltime": 309
+    "total": 674,
+    "internships": 363,
+    "fulltime": 310
   },
-  "generatedAt": "2026-11-28T14:20:19.611Z",
-  "totalJobs": 6166,
-  "internships": 3578,
+  "generatedAt": "2026-11-28T15:20:31.273Z",
+  "totalJobs": 6164,
+  "internships": 3576,
   "fulltime": 2588,
-  "screenedOut": 6324,
+  "screenedOut": 6325,
   "closedPostingsCaught": 163,
   "screening": {
     "version": 1,
     "unit": "application_destinations",
     "reviewed": 19849,
-    "accepted": 6193,
-    "excluded": 6324,
-    "pendingVerification": 7332,
+    "accepted": 6191,
+    "excluded": 6325,
+    "pendingVerification": 7333,
     "uncountedRecords": 0,
     "reasons": {
       "closed": 163,
       "expired": 52,
-      "location": 1643,
+      "location": 1644,
       "role": 4458,
       "employer": 8
     }
@@ -41,9 +41,9 @@
       "total": 930,
       "healthy": 872,
       "partial": 0,
-      "rate_limited": 0,
+      "rate_limited": 58,
       "unavailable": 0,
-      "cooldown": 58
+      "cooldown": 0
     },
     "recovery": {
       "total": 1,
