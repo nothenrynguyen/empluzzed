@@ -3279,21 +3279,21 @@
     },
     {
       "date": "2026-11-28",
-      "openRoles": 6164,
-      "internships": 3579,
+      "openRoles": 6163,
+      "internships": 3578,
       "fulltime": 2585,
       "freshListings7d": 644,
-      "activeCompanies": 971,
+      "activeCompanies": 970,
       "screenedOut": 14189,
-      "closedPostingsCaught": 869,
+      "closedPostingsCaught": 873,
       "workModes": {
         "remote": 338,
         "hybrid": 509,
         "in_person": 846,
-        "unknown": 4471
+        "unknown": 4470
       },
       "regions": {
-        "us": 5898,
+        "us": 5897,
         "canada": 137,
         "uk": 135
       },
@@ -3316,7 +3316,7 @@
       },
       "roleAreas": {
         "software": 1621,
-        "data-science": 404,
+        "data-science": 403,
         "product": 83,
         "hardware": 359,
         "process-manufacturing": 273,
