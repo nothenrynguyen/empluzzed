@@ -3279,8 +3279,8 @@
     },
     {
       "date": "2026-11-28",
-      "openRoles": 6162,
-      "internships": 3577,
+      "openRoles": 6161,
+      "internships": 3576,
       "fulltime": 2585,
       "freshListings7d": 644,
       "activeCompanies": 970,
@@ -3289,11 +3289,11 @@
       "workModes": {
         "remote": 338,
         "hybrid": 506,
-        "in_person": 845,
-        "unknown": 4473
+        "in_person": 846,
+        "unknown": 4471
       },
       "regions": {
-        "us": 5897,
+        "us": 5896,
         "canada": 137,
         "uk": 134
       },
@@ -3303,7 +3303,7 @@
         "seattle": 385,
         "boston": 279,
         "los-angeles": 688,
-        "austin": 311,
+        "austin": 309,
         "chicago": 187,
         "washington-dc": 195,
         "dallas-fort-worth": 116,
@@ -3315,8 +3315,8 @@
         "london": 71
       },
       "roleAreas": {
-        "software": 1621,
-        "data-science": 405,
+        "software": 1620,
+        "data-science": 404,
         "product": 83,
         "hardware": 359,
         "process-manufacturing": 273,
