@@ -1817,7 +1817,7 @@
     "accessDenied": true
   },
   "https://aresmgmt.wd1.myworkdayjobs.com/en-us/external/job/new-york-ny/analyst--risk--analytics-and-reporting--ais_r6539": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -2300,7 +2300,7 @@
     "accessDenied": true
   },
   "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/louisville-ky/xmlname-2027-summer-risk-management-strategy-analyst-internship_r918-1": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -2604,12 +2604,11 @@
     "accessDenied": true
   },
   "https://fhlbi.wd1.myworkdayjobs.com/fhlbi_careers/job/indianapolis/model-risk-intern_r636": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "unknown"
   },
   "https://fhlbi.wd1.myworkdayjobs.com/fhlbi_careers/job/indianapolis/mpp-data-analytics-intern_r641": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -2797,31 +2796,30 @@
     "accessDenied": false
   },
   "https://gresearch.wd103.myworkdayjobs.com/g-research/job/london-uk/machine-learning-engineer-intern_r3773": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
   "https://gresearch.wd103.myworkdayjobs.com/g-research/job/london-uk/software-engineering-intern_r3746": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "https://guidehouse.wd1.myworkdayjobs.com/en-us/external/job/us---md-bethesda/data-scientist_44617": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "https://guidehouse.wd1.myworkdayjobs.com/en-us/external/job/us---al-huntsville/financial-management-transformation-developer_44628": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
   "https://guidehouse.wd1.myworkdayjobs.com/en-us/external/job/us---va-arlington/data-analyst-fm-product-specialist--multiple-levels-_43860": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "https://guidehouse.wd1.myworkdayjobs.com/en-us/external/job/us---va-arlington/financial-management-data-analyst_45435": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "unknown"
   },
   "https://guidehouse.wd1.myworkdayjobs.com/en-us/external/job/us---va-arlington/jr-onestream-developer_44095-1": {
     "checkedAt": "2026-11-27T13:19:55.067Z",
@@ -3039,12 +3037,12 @@
     "accessDenied": false
   },
   "https://idexx.wd115.myworkdayjobs.com/en-us/idexx/job/frisco-tx/software-support-specialist---veterinary-software_j-055265": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
   "https://igsenergy.wd1.myworkdayjobs.com/en-us/igs/job/ohio-remote/software-engineer-intern_r6263": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -4208,8 +4206,26 @@
     "status": "unknown"
   },
   "https://symbotic.wd504.myworkdayjobs.com/symbotic/job/usa-wilmington--ma---hq/co-op---software-engineer_r8111": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "live",
+    "candidate": {
+      "company": "Symbotic",
+      "title": "Co-op - Software Engineer",
+      "term": "Not stated",
+      "location": "USA Wilmington, MA - HQ, United States of America",
+      "workMode": "in_person",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
+      "category": "Internship",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Co-op - Software Engineer USA Wilmington, MA - HQ, United States of America Software Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "software-engineering"
+      ]
+    }
   },
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/reading-berkshire-united-kingdom/placement-year---business-analyst-intern_uni4893-1": {
     "checkedAt": "2026-11-15T23:19:18.588Z",
@@ -7478,7 +7494,7 @@
     "status": "unknown"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-brooksville-fl/co-op--system-engineer_r8261": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -7488,7 +7504,7 @@
     "accessDenied": true
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-melrose-park-il/co-op--system-engineer_r8215": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/data-engineer_r7967": {
@@ -8104,9 +8120,26 @@
     "accessDenied": true
   },
   "workday:pru.wd5.myworkdayjobs.com:careers:r-125266": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "live",
+    "candidate": {
+      "company": "Prudential",
+      "title": "PGIM Real Estate – Analyst/Associate, Data Analytics & Governance",
+      "term": "Not stated",
+      "location": "Newark, NJ, USA, United States of America",
+      "workMode": "hybrid",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Real-Estate---Analyst-Associate--Data-Analytics---Governance_R-125266-2",
+      "category": "New grad",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "PGIM Real Estate – Analyst/Associate, Data Analytics & Governance Newark, NJ, USA, United States of America Analytics / BI",
+      "sourceActive": true,
+      "roleTags": [
+        "analytics"
+      ]
+    }
   },
   "workday:visa.wd5.myworkdayjobs.com:visa:ref089880w": {
     "checkedAt": "2026-11-14T15:20:03.056Z",
@@ -8286,7 +8319,7 @@
     "accessDenied": true
   },
   "workday:tamus.wd1.myworkdayjobs.com:tamuct_external:r-098324": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -8300,7 +8333,7 @@
     "status": "unknown"
   },
   "workday:toyota.wd503.myworkdayjobs.com:tmna:10325071": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -8472,7 +8505,7 @@
     "status": "unknown"
   },
   "workday:mdtkangaroo.wd108.myworkdayjobs.com:minimedcareers:r-801953": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -8803,9 +8836,26 @@
     }
   },
   "workday:mtb.wd5.myworkdayjobs.com:campus:r90812": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "live",
+    "candidate": {
+      "company": "M&T Bank",
+      "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
+      "term": "Not stated",
+      "location": "Buffalo, NY, United States of America",
+      "workMode": "unknown",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
+      "category": "Internship",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Technology Intern - Software Engineering (Enterprise API Services Development Team) Buffalo, NY, United States of America Software Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "software-engineering"
+      ]
+    }
   },
   "workday:cvshealth.wd1.myworkdayjobs.com:cvs_health_careers:r1081128": {
     "checkedAt": "2026-11-15T17:24:00.429Z",
@@ -10859,7 +10909,7 @@
     "accessDenied": true
   },
   "workday:republic.wd5.myworkdayjobs.com:republic:r-186063": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -11189,7 +11239,7 @@
     "accessDenied": true
   },
   "workday:swib.wd12.myworkdayjobs.com:ext:r-001342": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -11621,7 +11671,7 @@
     }
   },
   "workday:ochsner.wd1.myworkdayjobs.com:ochsner:00239147": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -12052,7 +12102,7 @@
     "accessDenied": true
   },
   "workday:pnc.wd5.myworkdayjobs.com:external:r237633": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -12359,7 +12409,7 @@
     "accessDenied": true
   },
   "workday:okgov.wd1.myworkdayjobs.com:okgovjobs:jr66062": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -12484,9 +12534,26 @@
     }
   },
   "workday:mtb.wd5.myworkdayjobs.com:mtb:r90364": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "live",
+    "candidate": {
+      "company": "M&T Bank",
+      "title": "Software Engineer - Liquidity Reporting",
+      "term": "Not stated",
+      "location": "Buffalo, NY, United States of America",
+      "workMode": "in_person",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Software-Engineer---Liquidity-Reporting_R90364",
+      "category": "New grad",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Software Engineer - Liquidity Reporting Buffalo, NY, United States of America Software Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "software-engineering"
+      ]
+    }
   },
   "workday:vrtx.wd501.myworkdayjobs.com:vertex_careers:req-30307": {
     "checkedAt": "2026-11-27T05:20:00.661Z",
@@ -12528,7 +12595,7 @@
     "status": "unknown"
   },
   "workday:nabancard.wd1.myworkdayjobs.com:nab:jr101983": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -14307,7 +14374,7 @@
     "status": "unknown"
   },
   "workday:iqvia.wd1.myworkdayjobs.com:iqvia:r1562238": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -14939,7 +15006,7 @@
     "accessDenied": true
   },
   "workday:davita.wd1.myworkdayjobs.com:dkc_external:r0475257": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -15964,7 +16031,7 @@
     "accessDenied": true
   },
   "workday:rockwoolgroup.wd3.myworkdayjobs.com:rockwool:r0036805": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -16703,7 +16770,7 @@
     "status": "unknown"
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr110631": {
-    "checkedAt": "2026-11-20T11:20:28.415Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:marmon.wd501.myworkdayjobs.com:marmon_msip_internships:jr0000037453": {
@@ -18015,7 +18082,7 @@
     "accessDenied": true
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr109965": {
-    "checkedAt": "2026-11-20T11:20:28.415Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:campbellsoup.wd5.myworkdayjobs.com:externalcareers_globalsite:req-65844": {
@@ -18183,7 +18250,7 @@
     }
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr111173": {
-    "checkedAt": "2026-11-20T11:20:28.415Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:danaher.wd1.myworkdayjobs.com:danaherjobs:r1318747": {
@@ -18366,7 +18433,7 @@
     }
   },
   "workday:comcast.wd115.myworkdayjobs.com:comcast_careers:r446112": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -18683,27 +18750,27 @@
     "accessDenied": true
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214224": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214232": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214234": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214233": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214236": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214235": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:allstate.wd5.myworkdayjobs.com:sourcing_event:r36266": {
@@ -18712,7 +18779,7 @@
     "accessDenied": true
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214237": {
-    "checkedAt": "2026-11-26T21:20:19.670Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:amgen.wd1.myworkdayjobs.com:careers:r-255708": {
@@ -18755,8 +18822,9 @@
     "status": "unknown"
   },
   "workday:alliance.wd3.myworkdayjobs.com:nissanjobs:r00214238": {
-    "checkedAt": "2026-11-25T12:12:36.433Z",
-    "status": "unknown"
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "unknown",
+    "accessDenied": true
   },
   "workday:armaninollp.wd1.myworkdayjobs.com:armanino:jr104236": {
     "checkedAt": "2026-11-20T22:19:55.179Z",
@@ -18830,12 +18898,12 @@
     "status": "unknown"
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr111751": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr109964": {
-    "checkedAt": "2026-11-20T11:20:28.415Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:brevanhoward.wd3.myworkdayjobs.com:bh_externalcareers:jr101602": {
@@ -18847,7 +18915,7 @@
     "status": "unknown"
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr111861": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:corespecialtyinsurance.wd1.myworkdayjobs.com:core_specialty:jr101540": {
@@ -19516,7 +19584,7 @@
     }
   },
   "workday:ally.wd1.myworkdayjobs.com:ally:r2600880": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:altera.wd1.myworkdayjobs.com:altera:r03320": {
@@ -19529,7 +19597,7 @@
     "status": "unknown"
   },
   "workday:ally.wd1.myworkdayjobs.com:ally:r2600103": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -19864,7 +19932,7 @@
     "accessDenied": true
   },
   "workday:sedgwick.wd1.myworkdayjobs.com:sedgwick:r79691": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -20589,7 +20657,7 @@
     "status": "unknown"
   },
   "workday:dxctechnology.wd1.myworkdayjobs.com:dxcjobs:51583298": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -20876,9 +20944,27 @@
     "accessDenied": true
   },
   "workday:groundswell.wd12.myworkdayjobs.com:groundswell:jr101095": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
-    "status": "unknown",
-    "accessDenied": true
+    "checkedAt": "2026-11-28T14:19:53.353Z",
+    "status": "live",
+    "candidate": {
+      "company": "Groundswell",
+      "title": "Applied AI Engineer",
+      "term": "Not stated",
+      "location": "Remote - Virginia, United States of America",
+      "workMode": "remote",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "postedAtSource": "date_only",
+      "applyUrl": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095",
+      "category": "New grad",
+      "salary": null,
+      "source": "Employer recovery",
+      "rawText": "Applied AI Engineer Remote - Virginia, United States of America Software Engineering AI / ML Engineering",
+      "sourceActive": true,
+      "roleTags": [
+        "software-engineering",
+        "ai-ml-engineering"
+      ]
+    }
   },
   "workday:greenheckgroup.wd5.myworkdayjobs.com:external:jr104721": {
     "checkedAt": "2026-11-28T06:19:50.730Z",
@@ -20891,9 +20977,9 @@
     "accessDenied": true
   },
   "workday:groundswell.wd12.myworkdayjobs.com:groundswell:jr101096": {
-    "checkedAt": "2026-11-26T12:20:22.781Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
-    "accessDenied": true
+    "accessDenied": false
   },
   "workday:guardianlife.wd5.myworkdayjobs.com:guardian-life-careers:r000110299": {
     "checkedAt": "2026-11-27T23:20:07.081Z",
@@ -21679,9 +21765,9 @@
     "status": "unknown"
   },
   "workday:osv-amerisure.wd5.myworkdayjobs.com:amerisure:jr-002063": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
-    "accessDenied": true
+    "accessDenied": false
   },
   "workday:oshkoshcorporation.wd5.myworkdayjobs.com:oshkosh:r49786": {
     "checkedAt": "2026-11-27T01:20:16.735Z",
@@ -22233,7 +22319,7 @@
     "status": "unknown"
   },
   "workday:treehouse.wd1.myworkdayjobs.com:treehousecareers:r30964": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -22466,7 +22552,7 @@
     "accessDenied": true
   },
   "workday:woodward.wd5.myworkdayjobs.com:woodward:jr112088": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -22564,7 +22650,7 @@
     "accessDenied": true
   },
   "workday:nationwide.wd1.myworkdayjobs.com:nationwide_career:100233": {
-    "checkedAt": "2026-11-26T13:20:19.716Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -22833,7 +22919,7 @@
     "accessDenied": true
   },
   "workday:copart.wd12.myworkdayjobs.com:copart:jr111758": {
-    "checkedAt": "2026-11-20T11:20:28.415Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown"
   },
   "workday:draftkings.wd1.myworkdayjobs.com:campus_career_portal:jr15147": {
@@ -22936,7 +23022,7 @@
     "accessDenied": false
   },
   "workday:genpt.wd1.myworkdayjobs.com:careers:0000029140": {
-    "checkedAt": "2026-11-24T01:00:04.229Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": true
   },
@@ -25896,17 +25982,17 @@
     }
   },
   "smartrecruiters:abbvie:3743990014860306": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990014860391": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990014896329": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -25916,12 +26002,12 @@
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990015684476": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990015679346": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -25931,12 +26017,12 @@
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990015684516": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990016070676": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -25946,7 +26032,7 @@
     "accessDenied": false
   },
   "smartrecruiters:abbvie:3743990016414046": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -25973,22 +26059,22 @@
     }
   },
   "smartrecruiters:aecom2:744000152725659": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:aecom2:744000153030379": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:aecom2:744000155565444": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:aecom2:744000156887619": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26499,7 +26585,7 @@
     }
   },
   "smartrecruiters:boschgroup:744000142898574": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26566,7 +26652,7 @@
     }
   },
   "smartrecruiters:boschgroup:744000154671460": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26576,7 +26662,7 @@
     "accessDenied": false
   },
   "smartrecruiters:boschgroup:744000152463644": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26603,7 +26689,7 @@
     }
   },
   "smartrecruiters:boschgroup:744000154765539": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26831,7 +26917,7 @@
     }
   },
   "smartrecruiters:crb:744000148585999": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26858,7 +26944,7 @@
     }
   },
   "smartrecruiters:crb:744000149048862": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -26934,7 +27020,7 @@
     }
   },
   "smartrecruiters:crb:744000151447299": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27049,7 +27135,7 @@
     }
   },
   "smartrecruiters:eurofins:744000131132249": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27091,7 +27177,7 @@
     }
   },
   "smartrecruiters:gdmsi:744000146985399": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27123,7 +27209,7 @@
     }
   },
   "smartrecruiters:gdmsi:744000147554134": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27155,7 +27241,7 @@
     }
   },
   "smartrecruiters:gdmsi:744000147563929": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27187,7 +27273,7 @@
     "accessDenied": false
   },
   "smartrecruiters:gdmsi:744000149415235": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27371,17 +27457,17 @@
     }
   },
   "smartrecruiters:interco:744000149591449": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:interco:744000149591649": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:intuitive:744000151714759": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27655,12 +27741,12 @@
     }
   },
   "smartrecruiters:linkedin3:744000156616169": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:legalandgeneral:744000158255219": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27914,7 +28000,7 @@
     }
   },
   "smartrecruiters:luxemediallc:83337967": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
@@ -27987,12 +28073,12 @@
     }
   },
   "smartrecruiters:nationalsoftwaremanagement1:744000146255004": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },
   "smartrecruiters:nbcuniversal3:744000153371465": {
-    "checkedAt": "2026-11-27T13:19:55.067Z",
+    "checkedAt": "2026-11-28T14:19:53.353Z",
     "status": "unknown",
     "accessDenied": false
   },

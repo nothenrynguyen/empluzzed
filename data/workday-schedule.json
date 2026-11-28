@@ -302,7 +302,7 @@
   "genpt.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:11.862Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.193Z"
   },
   "bakertilly.wd5.myworkdayjobs.com": {
     "failures": 10,
@@ -1382,7 +1382,7 @@
   "symbotic.wd504.myworkdayjobs.com": {
     "failures": 10,
     "reason": "403 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:19:55.688Z"
+    "nextAttemptAt": "2026-11-29T14:19:54.686Z"
   },
   "standoutforgood.wd12.myworkdayjobs.com": {
     "failures": 10,
@@ -1412,7 +1412,7 @@
   "comcast.wd115.myworkdayjobs.com": {
     "failures": 10,
     "reason": "403 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:19:55.854Z"
+    "nextAttemptAt": "2026-11-29T14:19:54.522Z"
   },
   "starfish.wd501.myworkdayjobs.com": {
     "failures": 10,
@@ -1527,7 +1527,7 @@
   "okgov.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.004Z"
+    "nextAttemptAt": "2026-11-29T02:19:55.833Z"
   },
   "avisbudget.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -1567,12 +1567,12 @@
   "nationwide.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:11.942Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.500Z"
   },
   "spe.wd1.myworkdayjobs.com": {
-    "failures": 3,
+    "failures": 4,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-22T22:19:52.186Z"
+    "nextAttemptAt": "2026-11-29T02:20:06.689Z"
   },
   "nasdaq.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -1591,8 +1591,8 @@
   },
   "copart.wd12.myworkdayjobs.com": {
     "failures": 10,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:11.901Z"
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:54.240Z"
   },
   "directv.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -1602,7 +1602,7 @@
   "kiongroup.wd3.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T12:20:24.420Z"
+    "nextAttemptAt": "2026-11-29T02:20:06.835Z"
   },
   "abglobal.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -1627,7 +1627,7 @@
   "rockwoolgroup.wd3.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.465Z"
+    "nextAttemptAt": "2026-11-29T02:19:56.361Z"
   },
   "plains.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -1717,7 +1717,7 @@
   "alliance.wd3.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:12.152Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.061Z"
   },
   "ferrovial.wd3.myworkdayjobs.com": {
     "failures": 5,
@@ -1862,7 +1862,7 @@
   "treehouse.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.134Z"
+    "nextAttemptAt": "2026-11-29T02:19:56.056Z"
   },
   "xenergy.wd5.myworkdayjobs.com": {
     "failures": 10,
@@ -1877,7 +1877,7 @@
   "tamus.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.123Z"
+    "nextAttemptAt": "2026-11-29T02:19:55.996Z"
   },
   "rfcuny.wd108.myworkdayjobs.com": {
     "failures": 3,
@@ -2081,8 +2081,8 @@
   },
   "toyota.wd503.myworkdayjobs.com": {
     "failures": 10,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:11.900Z"
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:54.434Z"
   },
   "aaaie.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2442,7 +2442,7 @@
   "ally.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.742Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.375Z"
   },
   "livenation.wd503.myworkdayjobs.com": {
     "failures": 6,
@@ -2452,7 +2452,7 @@
   "sedgwick.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.435Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.131Z"
   },
   "unum.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2546,8 +2546,8 @@
   },
   "ceritypartners.wd12.myworkdayjobs.com": {
     "failures": 10,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:20:11.984Z"
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:54.707Z"
   },
   "vhr-genband.wd1.myworkdayjobs.com": {
     "failures": 2,
@@ -2677,27 +2677,27 @@
   "aresmgmt.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.850Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.571Z"
   },
   "fhlbi.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.397Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.251Z"
   },
   "guidehouse.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.527Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.306Z"
   },
   "igsenergy.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.930Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.746Z"
   },
   "idexx.wd115.myworkdayjobs.com": {
-    "failures": 9,
+    "failures": 10,
     "reason": "403 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:19:56.074Z"
+    "nextAttemptAt": "2026-11-29T14:19:54.804Z"
   },
   "2020companies.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2907,7 +2907,7 @@
   "iqvia.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.559Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.319Z"
   },
   "barrywehmiller.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2917,7 +2917,7 @@
   "davita.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.784Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.399Z"
   },
   "priceline.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2927,7 +2927,7 @@
   "dxctechnology.wd1.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:55.773Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.427Z"
   },
   "elevancehealth.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2952,7 +2952,7 @@
   "mdtkangaroo.wd108.myworkdayjobs.com": {
     "failures": 10,
     "reason": "403 Workday access paused",
-    "nextAttemptAt": "2026-11-28T13:19:55.898Z"
+    "nextAttemptAt": "2026-11-29T14:19:54.563Z"
   },
   "tjx.wd1.myworkdayjobs.com": {
     "failures": 10,
@@ -2967,7 +2967,7 @@
   "gresearch.wd103.myworkdayjobs.com": {
     "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:56.295Z"
+    "nextAttemptAt": "2026-11-29T02:19:54.993Z"
   },
   "justfab.wd1.myworkdayjobs.com": {
     "failures": 9,
@@ -3171,8 +3171,8 @@
   },
   "woodward.wd5.myworkdayjobs.com": {
     "failures": 10,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.198Z"
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:56.221Z"
   },
   "workiva.wd503.myworkdayjobs.com": {
     "failures": 10,
@@ -3386,8 +3386,8 @@
   },
   "swib.wd12.myworkdayjobs.com": {
     "failures": 10,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.115Z"
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:56.087Z"
   },
   "onehealthineers.wd3.myworkdayjobs.com": {
     "failures": 10,
@@ -3435,24 +3435,24 @@
     "nextAttemptAt": "2026-11-28T18:19:53.538Z"
   },
   "nabancard.wd1.myworkdayjobs.com": {
-    "failures": 9,
+    "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:56.984Z"
+    "nextAttemptAt": "2026-11-29T02:19:55.735Z"
   },
   "ochsner.wd1.myworkdayjobs.com": {
-    "failures": 9,
+    "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.002Z"
+    "nextAttemptAt": "2026-11-29T02:19:55.791Z"
   },
   "pnc.wd5.myworkdayjobs.com": {
-    "failures": 9,
-    "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.064Z"
+    "failures": 10,
+    "reason": "403 Workday access paused",
+    "nextAttemptAt": "2026-11-29T14:19:56.014Z"
   },
   "republic.wd5.myworkdayjobs.com": {
-    "failures": 9,
+    "failures": 10,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-28T01:19:57.146Z"
+    "nextAttemptAt": "2026-11-29T02:19:55.937Z"
   },
   "adec.wd5.myworkdayjobs.com": {
     "failures": 3,
@@ -3545,9 +3545,9 @@
     "nextAttemptAt": "2026-11-24T00:59:48.410Z"
   },
   "fiserv.wd5.myworkdayjobs.com": {
-    "failures": 3,
+    "failures": 4,
     "reason": "429 Workday access paused",
-    "nextAttemptAt": "2026-11-22T23:19:50.022Z"
+    "nextAttemptAt": "2026-11-29T02:20:06.824Z"
   },
   "ijm.wd5.myworkdayjobs.com": {
     "failures": 2,

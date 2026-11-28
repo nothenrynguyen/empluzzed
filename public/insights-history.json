@@ -3279,34 +3279,34 @@
     },
     {
       "date": "2026-11-28",
-      "openRoles": 6163,
+      "openRoles": 6166,
       "internships": 3578,
-      "fulltime": 2585,
-      "freshListings7d": 644,
-      "activeCompanies": 970,
-      "screenedOut": 14189,
+      "fulltime": 2588,
+      "freshListings7d": 642,
+      "activeCompanies": 973,
+      "screenedOut": 14187,
       "closedPostingsCaught": 873,
       "workModes": {
-        "remote": 338,
-        "hybrid": 509,
-        "in_person": 846,
-        "unknown": 4470
+        "remote": 340,
+        "hybrid": 510,
+        "in_person": 848,
+        "unknown": 4468
       },
       "regions": {
-        "us": 5897,
+        "us": 5900,
         "canada": 137,
         "uk": 135
       },
       "metros": {
         "sf-bay-area": 1153,
-        "new-york-city": 467,
+        "new-york-city": 468,
         "seattle": 386,
         "boston": 279,
         "los-angeles": 688,
         "austin": 310,
-        "chicago": 187,
+        "chicago": 186,
         "washington-dc": 195,
-        "dallas-fort-worth": 116,
+        "dallas-fort-worth": 117,
         "atlanta": 53,
         "denver-boulder": 75,
         "raleigh-durham": 63,
@@ -3315,15 +3315,15 @@
         "london": 72
       },
       "roleAreas": {
-        "software": 1621,
-        "data-science": 403,
+        "software": 1625,
+        "data-science": 404,
         "product": 83,
         "hardware": 359,
-        "process-manufacturing": 273,
-        "quant": 149,
+        "process-manufacturing": 272,
+        "quant": 148,
         "finance": 463,
         "business-analyst": 73,
-        "it-network": 212
+        "it-network": 210
       }
     }
   ]
